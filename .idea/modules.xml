@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MusicToRun.iml" filepath="$PROJECT_DIR$/MusicToRun.iml" />
       <module fileurl="file://C:\Users\Taengoo\Desktop\MusicToRun\MusicToRun.iml" filepath="C:\Users\Taengoo\Desktop\MusicToRun\MusicToRun.iml" />
+      <module fileurl="file://C:\Users\Taengoo\Desktop\IS416 Mobile &amp; Pervasive\MusicToRun\MusicToRun.iml" filepath="C:\Users\Taengoo\Desktop\IS416 Mobile &amp; Pervasive\MusicToRun\MusicToRun.iml" />
       <module fileurl="file://C:\Users\Alan\Desktop\MusicToRun\MusicToRun.iml" filepath="C:\Users\Alan\Desktop\MusicToRun\MusicToRun.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://C:\Users\Taengoo\Desktop\MusicToRun\app\app.iml" filepath="C:\Users\Taengoo\Desktop\MusicToRun\app\app.iml" />
