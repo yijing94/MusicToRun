@@ -1,4 +1,4 @@
-package sg.edu.smu.is416.musictorun;
+package sg.edu.smu.is416.logintest;
 
 import org.junit.Test;
 

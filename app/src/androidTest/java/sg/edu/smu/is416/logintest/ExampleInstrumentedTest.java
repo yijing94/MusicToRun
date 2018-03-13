@@ -1,4 +1,4 @@
-package sg.edu.smu.is416.musictorun;
+package sg.edu.smu.is416.logintest;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("sg.edu.smu.is416.musictorun", appContext.getPackageName());
+        assertEquals("sg.edu.smu.is416.logintest", appContext.getPackageName());
     }
 }
